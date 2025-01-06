@@ -1,0 +1,8 @@
+Account Service:
+
+http://localhost:8000/account/hello
+
+
+api gateway:
+
+http://localhost:8765/ACCOUNTSERIVICE/account/hello
